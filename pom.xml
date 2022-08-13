@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.netmillennium.gagrid.services.optchange</groupId>
 	<artifactId>gagrid-services-optchange</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-beta</version>
 	<name>gagrid-services-optchange</name>
 	<description>gagrid-services-helloword</description>
 	<properties>
